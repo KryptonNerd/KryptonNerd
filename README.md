@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KryptonNerd. I'm a postgraduate research student in tissue engineering and regenerative medicine.
 - 👀 I’m interested in biomedical engineering, image processing, bioinformatics, and machine learning.
-- 🌱 I’m currently learning FEBio
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything that looks fun!
 - 📫 How to reach me RobJess.co.uk
